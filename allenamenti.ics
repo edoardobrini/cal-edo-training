@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Edo Training//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Allenamenti
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:run-2026-11-17@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261117T150000
+DTEND;TZID=Europe/Rome:20261117T153500
+SUMMARY:Corsa · Facile Z2 35'
+DESCRIPTION:5' liberi\, poi 30' a 140-155 bpm.\n\nL'allenamento è già su
+ ll'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:gym-2026-11-18@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261118T150000
+DTEND;TZID=Europe/Rome:20261118T161500
+SUMMARY:Palestra · D2 Schiena e tricipiti
+DESCRIPTION:1. Lat machine\, presa larga prona 3x8-10\n2. Rematore con pet
+ to appoggiato 3x8-10\n3. Pulley basso\, presa stretta neutra 3x10-12\n4. P
+ ullover al cavo con corda 2x12-15\n5a. Estensioni sopra la testa con corda
+  3x10-12\n5b. Pushdown con barra 3x10-12\n6. Dip alla macchina (o kickback
+  al cavo) 2x10-12\nA1. Crunch al cavo in ginocchio 3x12-15\nA2. Russian tw
+ ist con peso 3x20\n\nRegistra le serie nell'app Edo Training.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-2026-11-19@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261119T150000
+DTEND;TZID=Europe/Rome:20261119T154000
+SUMMARY:Corsa · 30' Z2 + 6 allunghi
+DESCRIPTION:5' liberi\, 25' a 140-155 bpm\, poi 6 allunghi da 20\" con 70\
+ " di camminata.\n\nL'allenamento è già sull'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:gym-2026-11-20@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261120T150000
+DTEND;TZID=Europe/Rome:20261120T161500
+SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia · trici
+ piti
+DESCRIPTION:1. Shoulder press con manubri da seduto 3x8-10\n2a. Chest pres
+ s alla macchina 3x8-12\n2b. Lat machine\, presa neutra 3x10-12\n3a. Croci 
+ ai cavi bassi 2x12-15\n3b. Rematore al cavo a un braccio 2x10-12\n4a. Alza
+ te laterali con manubri 3x12-15\n4b. French press con bilanciere EZ 3x10-1
+ 2\n5a. Reverse pec deck 3x12-15\n5b. Pushdown con corda 2x10-12\nA1. Crunc
+ h al cavo in ginocchio 3x12-15\nA2. Russian twist con peso 3x20\n\nRegistr
+ a le serie nell'app Edo Training.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-2026-11-22@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261122T100000
+DTEND;TZID=Europe/Rome:20261122T104500
+SUMMARY:Corsa · Lungo Z2 45'
+DESCRIPTION:5' liberi\, poi 40' a 140-155 bpm. In salita va bene camminare
+ .\n\nL'allenamento è già sull'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:gym-2026-11-23@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261123T150000
+DTEND;TZID=Europe/Rome:20261123T161500
+SUMMARY:Palestra · D1 Petto\, bicipiti\, gambe per la corsa
+DESCRIPTION:1. Panca piana con manubri 3x8-10\n2. Panca inclinata al Smith
+ \, ~30° 3x8-10\n3. Croci ai cavi alti 3x10-12\n4. Croci con manubri su pa
+ nca piana 2x12-15\n5a. Curl alla panca Scott\, bilanciere EZ 3x8-10\n5b. C
+ alf raise in piedi 3x12-15\n6. Curl su panca inclinata\, manubri 3x10-12\n
+ 7. Split squat bulgaro\, manubri 3x8-10\nA1. Crunch al cavo in ginocchio 3
+ x12-15\nA2. Russian twist con peso 3x20\n\nRegistra le serie nell'app Edo 
+ Training.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-2026-11-24@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261124T150000
+DTEND;TZID=Europe/Rome:20261124T154000
+SUMMARY:Corsa · Facile Z2 40'
+DESCRIPTION:5' liberi\, poi 35' a 140-155 bpm.\n\nL'allenamento è già su
+ ll'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:gym-2026-11-25@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261125T150000
+DTEND;TZID=Europe/Rome:20261125T161500
+SUMMARY:Palestra · D2 Schiena e tricipiti
+DESCRIPTION:1. Lat machine\, presa larga prona 3x8-10\n2. Rematore con pet
+ to appoggiato 3x8-10\n3. Pulley basso\, presa stretta neutra 3x10-12\n4. P
+ ullover al cavo con corda 2x12-15\n5a. Estensioni sopra la testa con corda
+  3x10-12\n5b. Pushdown con barra 3x10-12\n6. Dip alla macchina (o kickback
+  al cavo) 2x10-12\nA1. Crunch al cavo in ginocchio 3x12-15\nA2. Russian tw
+ ist con peso 3x20\n\nRegistra le serie nell'app Edo Training.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-2026-11-26@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261126T150000
+DTEND;TZID=Europe/Rome:20261126T154500
+SUMMARY:Corsa · 35' Z2 + 6 allunghi
+DESCRIPTION:5' liberi\, 30' a 140-155 bpm\, poi 6 allunghi da 20\".\n\nL'a
+ llenamento è già sull'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:gym-2026-11-27@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261127T150000
+DTEND;TZID=Europe/Rome:20261127T161500
+SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia · bicip
+ iti
+DESCRIPTION:1. Shoulder press con manubri da seduto 3x8-10\n2a. Chest pres
+ s alla macchina 3x8-12\n2b. Lat machine\, presa neutra 3x10-12\n3a. Croci 
+ ai cavi bassi 2x12-15\n3b. Rematore al cavo a un braccio 2x10-12\n4a. Alza
+ te laterali con manubri 3x12-15\n4b. Bayesian curl al cavo 3x10-12\n5a. Re
+ verse pec deck 3x12-15\n5b. Curl a martello con corda al cavo 2x10-12\nA1.
+  Crunch al cavo in ginocchio 3x12-15\nA2. Russian twist con peso 3x20\n\nR
+ egistra le serie nell'app Edo Training.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-2026-11-28@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261128T100000
+DTEND;TZID=Europe/Rome:20261128T105000
+SUMMARY:Corsa · Lungo Z2 50'
+DESCRIPTION:5' liberi\, poi 45' a 140-155 bpm.\n\nL'allenamento è già su
+ ll'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:gym-2026-11-30@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261130T150000
+DTEND;TZID=Europe/Rome:20261130T161500
+SUMMARY:Palestra · D1 Petto\, bicipiti\, gambe per la corsa (scarico)
+DESCRIPTION:Settimana di scarico: stessi carichi\, una serie in meno per e
+ sercizio.\n\n1. Panca piana con manubri 3x8-10\n2. Panca inclinata al Smit
+ h\, ~30° 3x8-10\n3. Croci ai cavi alti 3x10-12\n4. Croci con manubri su p
+ anca piana 2x12-15\n5a. Curl alla panca Scott\, bilanciere EZ 3x8-10\n5b. 
+ Calf raise in piedi 3x12-15\n6. Curl su panca inclinata\, manubri 3x10-12\
+ n7. Split squat bulgaro\, manubri 3x8-10\nA1. Crunch al cavo in ginocchio 
+ 3x12-15\nA2. Russian twist con peso 3x20\n\nRegistra le serie nell'app Edo
+  Training.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-2026-12-01@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261201T150000
+DTEND;TZID=Europe/Rome:20261201T153000
+SUMMARY:Corsa · Facile Z2 30' (scarico)
+DESCRIPTION:5' liberi\, poi 25' a 140-155 bpm.\n\nL'allenamento è già su
+ ll'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:gym-2026-12-02@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261202T150000
+DTEND;TZID=Europe/Rome:20261202T161500
+SUMMARY:Palestra · D2 Schiena e tricipiti (scarico)
+DESCRIPTION:Settimana di scarico: stessi carichi\, una serie in meno per e
+ sercizio.\n\n1. Lat machine\, presa larga prona 3x8-10\n2. Rematore con pe
+ tto appoggiato 3x8-10\n3. Pulley basso\, presa stretta neutra 3x10-12\n4. 
+ Pullover al cavo con corda 2x12-15\n5a. Estensioni sopra la testa con cord
+ a 3x10-12\n5b. Pushdown con barra 3x10-12\n6. Dip alla macchina (o kickbac
+ k al cavo) 2x10-12\nA1. Crunch al cavo in ginocchio 3x12-15\nA2. Russian t
+ wist con peso 3x20\n\nRegistra le serie nell'app Edo Training.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-2026-12-03@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261203T150000
+DTEND;TZID=Europe/Rome:20261203T153600
+SUMMARY:Corsa · 30' Z2 + 4 allunghi (scarico)
+DESCRIPTION:5' liberi\, 25' a 140-155 bpm\, poi 4 allunghi da 20\".\n\nL'a
+ llenamento è già sull'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:gym-2026-12-04@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261204T150000
+DTEND;TZID=Europe/Rome:20261204T161500
+SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia (scarico
+ ) · tricipiti
+DESCRIPTION:Settimana di scarico: stessi carichi\, una serie in meno per e
+ sercizio.\n\n1. Shoulder press con manubri da seduto 3x8-10\n2a. Chest pre
+ ss alla macchina 3x8-12\n2b. Lat machine\, presa neutra 3x10-12\n3a. Croci
+  ai cavi bassi 2x12-15\n3b. Rematore al cavo a un braccio 2x10-12\n4a. Alz
+ ate laterali con manubri 3x12-15\n4b. French press con bilanciere EZ 3x10-
+ 12\n5a. Reverse pec deck 3x12-15\n5b. Pushdown con corda 2x10-12\nA1. Crun
+ ch al cavo in ginocchio 3x12-15\nA2. Russian twist con peso 3x20\n\nRegist
+ ra le serie nell'app Edo Training.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-2026-12-05@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261205T100000
+DTEND;TZID=Europe/Rome:20261205T104000
+SUMMARY:Corsa · Test Z2
+DESCRIPTION:10' sotto i 140 bpm\, poi 3 km tenendo 150 bpm fissi\, stesso 
+ percorso piano o tapis roulant all'1%. Segna il ritmo medio.\n\nL'allename
+ nto è già sull'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:gym-2026-12-07@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261207T150000
+DTEND;TZID=Europe/Rome:20261207T161500
+SUMMARY:Palestra · D1 Petto\, bicipiti\, gambe per la corsa
+DESCRIPTION:1. Panca piana con manubri 3x8-10\n2. Panca inclinata al Smith
+ \, ~30° 3x8-10\n3. Croci ai cavi alti 3x10-12\n4. Croci con manubri su pa
+ nca piana 2x12-15\n5a. Curl alla panca Scott\, bilanciere EZ 3x8-10\n5b. C
+ alf raise in piedi 3x12-15\n6. Curl su panca inclinata\, manubri 3x10-12\n
+ 7. Split squat bulgaro\, manubri 3x8-10\nA1. Crunch al cavo in ginocchio 3
+ x12-15\nA2. Russian twist con peso 3x20\n\nRegistra le serie nell'app Edo 
+ Training.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-2026-12-08@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261208T150000
+DTEND;TZID=Europe/Rome:20261208T154000
+SUMMARY:Corsa · Facile Z2 40'
+DESCRIPTION:5' liberi\, poi 35' a 140-155 bpm.\n\nL'allenamento è già su
+ ll'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:gym-2026-12-09@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261209T150000
+DTEND;TZID=Europe/Rome:20261209T161500
+SUMMARY:Palestra · D2 Schiena e tricipiti
+DESCRIPTION:1. Lat machine\, presa larga prona 3x8-10\n2. Rematore con pet
+ to appoggiato 3x8-10\n3. Pulley basso\, presa stretta neutra 3x10-12\n4. P
+ ullover al cavo con corda 2x12-15\n5a. Estensioni sopra la testa con corda
+  3x10-12\n5b. Pushdown con barra 3x10-12\n6. Dip alla macchina (o kickback
+  al cavo) 2x10-12\nA1. Crunch al cavo in ginocchio 3x12-15\nA2. Russian tw
+ ist con peso 3x20\n\nRegistra le serie nell'app Edo Training.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-2026-12-10@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261210T150000
+DTEND;TZID=Europe/Rome:20261210T154200
+SUMMARY:Corsa · Ripetute 6×2' in Z4
+DESCRIPTION:10' facili\, 6 ripetute da 2' a 168-186 bpm con 2' di corsa le
+ nta\, 10' facili.\n\nL'allenamento è già sull'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:gym-2026-12-11@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261211T150000
+DTEND;TZID=Europe/Rome:20261211T161500
+SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia · bicip
+ iti
+DESCRIPTION:1. Shoulder press con manubri da seduto 3x8-10\n2a. Chest pres
+ s alla macchina 3x8-12\n2b. Lat machine\, presa neutra 3x10-12\n3a. Croci 
+ ai cavi bassi 2x12-15\n3b. Rematore al cavo a un braccio 2x10-12\n4a. Alza
+ te laterali con manubri 3x12-15\n4b. Bayesian curl al cavo 3x10-12\n5a. Re
+ verse pec deck 3x12-15\n5b. Curl a martello con corda al cavo 2x10-12\nA1.
+  Crunch al cavo in ginocchio 3x12-15\nA2. Russian twist con peso 3x20\n\nR
+ egistra le serie nell'app Edo Training.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-2026-12-12@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261212T100000
+DTEND;TZID=Europe/Rome:20261212T105500
+SUMMARY:Corsa · Lungo Z2 55'
+DESCRIPTION:5' liberi\, poi 50' a 140-155 bpm.\n\nL'allenamento è già su
+ ll'orologio.
+END:VEVENT
+BEGIN:VEVENT
+UID:nutri-2026-12-22@edo-training
+DTSTAMP:20261117T170034Z
+DTSTART;TZID=Europe/Rome:20261222T190000
+DTEND;TZID=Europe/Rome:20261222T200000
+SUMMARY:Controllo nutrizionista + bioimpedenza
+DESCRIPTION:Dott.ssa Martina Barbieri. La mattina palestra come il 9/11\, 
+ niente pasto abbondante nelle 2-3 ore prima\, vescica vuota.
+END:VEVENT
+END:VCALENDAR
