@@ -26,19 +26,21 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:run-2026-11-17@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261117T150000
-DTEND;TZID=Europe/Rome:20261117T153500
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · Facile Z2 35'
 DESCRIPTION:5' liberi\, poi 30' a 140-155 bpm.\n\nL'allenamento è già su
  ll'orologio.
 END:VEVENT
 BEGIN:VEVENT
 UID:gym-2026-11-18@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261118T150000
-DTEND;TZID=Europe/Rome:20261118T161500
-SUMMARY:Palestra · D2 Schiena e tricipiti
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Palestra · D2 Schiena e tricipiti (~75')
 DESCRIPTION:1. Lat machine\, presa larga prona 3x8-10\n2. Rematore con pet
  to appoggiato 3x8-10\n3. Pulley basso\, presa stretta neutra 3x10-12\n4. P
  ullover al cavo con corda 2x12-15\n5a. Estensioni sopra la testa con corda
@@ -48,20 +50,22 @@ DESCRIPTION:1. Lat machine\, presa larga prona 3x8-10\n2. Rematore con pet
 END:VEVENT
 BEGIN:VEVENT
 UID:run-2026-11-19@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261119T150000
-DTEND;TZID=Europe/Rome:20261119T154000
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · 30' Z2 + 6 allunghi
 DESCRIPTION:5' liberi\, 25' a 140-155 bpm\, poi 6 allunghi da 20\" con 70\
  " di camminata.\n\nL'allenamento è già sull'orologio.
 END:VEVENT
 BEGIN:VEVENT
 UID:gym-2026-11-20@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261120T150000
-DTEND;TZID=Europe/Rome:20261120T161500
-SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia · trici
- piti
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia (~75') 
+ · tricipiti
 DESCRIPTION:1. Shoulder press con manubri da seduto 3x8-10\n2a. Chest pres
  s alla macchina 3x8-12\n2b. Lat machine\, presa neutra 3x10-12\n3a. Croci 
  ai cavi bassi 2x12-15\n3b. Rematore al cavo a un braccio 2x10-12\n4a. Alza
@@ -72,19 +76,21 @@ DESCRIPTION:1. Shoulder press con manubri da seduto 3x8-10\n2a. Chest pres
 END:VEVENT
 BEGIN:VEVENT
 UID:run-2026-11-22@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261122T100000
-DTEND;TZID=Europe/Rome:20261122T104500
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · Lungo Z2 45'
 DESCRIPTION:5' liberi\, poi 40' a 140-155 bpm. In salita va bene camminare
  .\n\nL'allenamento è già sull'orologio.
 END:VEVENT
 BEGIN:VEVENT
 UID:gym-2026-11-23@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261123T150000
-DTEND;TZID=Europe/Rome:20261123T161500
-SUMMARY:Palestra · D1 Petto\, bicipiti\, gambe per la corsa
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+SUMMARY:Palestra · D1 Petto\, bicipiti\, gambe per la corsa (~75')
 DESCRIPTION:1. Panca piana con manubri 3x8-10\n2. Panca inclinata al Smith
  \, ~30° 3x8-10\n3. Croci ai cavi alti 3x10-12\n4. Croci con manubri su pa
  nca piana 2x12-15\n5a. Curl alla panca Scott\, bilanciere EZ 3x8-10\n5b. C
@@ -95,19 +101,21 @@ DESCRIPTION:1. Panca piana con manubri 3x8-10\n2. Panca inclinata al Smith
 END:VEVENT
 BEGIN:VEVENT
 UID:run-2026-11-24@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261124T150000
-DTEND;TZID=Europe/Rome:20261124T154000
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · Facile Z2 40'
 DESCRIPTION:5' liberi\, poi 35' a 140-155 bpm.\n\nL'allenamento è già su
  ll'orologio.
 END:VEVENT
 BEGIN:VEVENT
 UID:gym-2026-11-25@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261125T150000
-DTEND;TZID=Europe/Rome:20261125T161500
-SUMMARY:Palestra · D2 Schiena e tricipiti
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+SUMMARY:Palestra · D2 Schiena e tricipiti (~75')
 DESCRIPTION:1. Lat machine\, presa larga prona 3x8-10\n2. Rematore con pet
  to appoggiato 3x8-10\n3. Pulley basso\, presa stretta neutra 3x10-12\n4. P
  ullover al cavo con corda 2x12-15\n5a. Estensioni sopra la testa con corda
@@ -117,20 +125,22 @@ DESCRIPTION:1. Lat machine\, presa larga prona 3x8-10\n2. Rematore con pet
 END:VEVENT
 BEGIN:VEVENT
 UID:run-2026-11-26@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261126T150000
-DTEND;TZID=Europe/Rome:20261126T154500
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · 35' Z2 + 6 allunghi
 DESCRIPTION:5' liberi\, 30' a 140-155 bpm\, poi 6 allunghi da 20\".\n\nL'a
  llenamento è già sull'orologio.
 END:VEVENT
 BEGIN:VEVENT
 UID:gym-2026-11-27@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261127T150000
-DTEND;TZID=Europe/Rome:20261127T161500
-SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia · bicip
- iti
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia (~75') 
+ · bicipiti
 DESCRIPTION:1. Shoulder press con manubri da seduto 3x8-10\n2a. Chest pres
  s alla macchina 3x8-12\n2b. Lat machine\, presa neutra 3x10-12\n3a. Croci 
  ai cavi bassi 2x12-15\n3b. Rematore al cavo a un braccio 2x10-12\n4a. Alza
@@ -141,19 +151,22 @@ DESCRIPTION:1. Shoulder press con manubri da seduto 3x8-10\n2a. Chest pres
 END:VEVENT
 BEGIN:VEVENT
 UID:run-2026-11-28@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261128T100000
-DTEND;TZID=Europe/Rome:20261128T105000
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · Lungo Z2 50'
 DESCRIPTION:5' liberi\, poi 45' a 140-155 bpm.\n\nL'allenamento è già su
  ll'orologio.
 END:VEVENT
 BEGIN:VEVENT
 UID:gym-2026-11-30@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261130T150000
-DTEND;TZID=Europe/Rome:20261130T161500
-SUMMARY:Palestra · D1 Petto\, bicipiti\, gambe per la corsa (scarico)
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+SUMMARY:Palestra · D1 Petto\, bicipiti\, gambe per la corsa (~75') (scari
+ co)
 DESCRIPTION:Settimana di scarico: stessi carichi\, una serie in meno per e
  sercizio.\n\n1. Panca piana con manubri 3x8-10\n2. Panca inclinata al Smit
  h\, ~30° 3x8-10\n3. Croci ai cavi alti 3x10-12\n4. Croci con manubri su p
@@ -165,19 +178,21 @@ DESCRIPTION:Settimana di scarico: stessi carichi\, una serie in meno per e
 END:VEVENT
 BEGIN:VEVENT
 UID:run-2026-12-01@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261201T150000
-DTEND;TZID=Europe/Rome:20261201T153000
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · Facile Z2 30' (scarico)
 DESCRIPTION:5' liberi\, poi 25' a 140-155 bpm.\n\nL'allenamento è già su
  ll'orologio.
 END:VEVENT
 BEGIN:VEVENT
 UID:gym-2026-12-02@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261202T150000
-DTEND;TZID=Europe/Rome:20261202T161500
-SUMMARY:Palestra · D2 Schiena e tricipiti (scarico)
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+TRANSP:TRANSPARENT
+SUMMARY:Palestra · D2 Schiena e tricipiti (~75') (scarico)
 DESCRIPTION:Settimana di scarico: stessi carichi\, una serie in meno per e
  sercizio.\n\n1. Lat machine\, presa larga prona 3x8-10\n2. Rematore con pe
  tto appoggiato 3x8-10\n3. Pulley basso\, presa stretta neutra 3x10-12\n4. 
@@ -188,20 +203,22 @@ DESCRIPTION:Settimana di scarico: stessi carichi\, una serie in meno per e
 END:VEVENT
 BEGIN:VEVENT
 UID:run-2026-12-03@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261203T150000
-DTEND;TZID=Europe/Rome:20261203T153600
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · 30' Z2 + 4 allunghi (scarico)
 DESCRIPTION:5' liberi\, 25' a 140-155 bpm\, poi 4 allunghi da 20\".\n\nL'a
  llenamento è già sull'orologio.
 END:VEVENT
 BEGIN:VEVENT
 UID:gym-2026-12-04@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261204T150000
-DTEND;TZID=Europe/Rome:20261204T161500
-SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia (scarico
- ) · tricipiti
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+TRANSP:TRANSPARENT
+SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia (~75') (
+ scarico) · tricipiti
 DESCRIPTION:Settimana di scarico: stessi carichi\, una serie in meno per e
  sercizio.\n\n1. Shoulder press con manubri da seduto 3x8-10\n2a. Chest pre
  ss alla macchina 3x8-12\n2b. Lat machine\, presa neutra 3x10-12\n3a. Croci
@@ -213,9 +230,10 @@ DESCRIPTION:Settimana di scarico: stessi carichi\, una serie in meno per e
 END:VEVENT
 BEGIN:VEVENT
 UID:run-2026-12-05@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261205T100000
-DTEND;TZID=Europe/Rome:20261205T104000
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · Test Z2
 DESCRIPTION:10' sotto i 140 bpm\, poi 3 km tenendo 150 bpm fissi\, stesso 
  percorso piano o tapis roulant all'1%. Segna il ritmo medio.\n\nL'allename
@@ -223,10 +241,11 @@ DESCRIPTION:10' sotto i 140 bpm\, poi 3 km tenendo 150 bpm fissi\, stesso
 END:VEVENT
 BEGIN:VEVENT
 UID:gym-2026-12-07@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261207T150000
-DTEND;TZID=Europe/Rome:20261207T161500
-SUMMARY:Palestra · D1 Petto\, bicipiti\, gambe per la corsa
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+TRANSP:TRANSPARENT
+SUMMARY:Palestra · D1 Petto\, bicipiti\, gambe per la corsa (~75')
 DESCRIPTION:1. Panca piana con manubri 3x8-10\n2. Panca inclinata al Smith
  \, ~30° 3x8-10\n3. Croci ai cavi alti 3x10-12\n4. Croci con manubri su pa
  nca piana 2x12-15\n5a. Curl alla panca Scott\, bilanciere EZ 3x8-10\n5b. C
@@ -237,19 +256,21 @@ DESCRIPTION:1. Panca piana con manubri 3x8-10\n2. Panca inclinata al Smith
 END:VEVENT
 BEGIN:VEVENT
 UID:run-2026-12-08@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261208T150000
-DTEND;TZID=Europe/Rome:20261208T154000
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · Facile Z2 40'
 DESCRIPTION:5' liberi\, poi 35' a 140-155 bpm.\n\nL'allenamento è già su
  ll'orologio.
 END:VEVENT
 BEGIN:VEVENT
 UID:gym-2026-12-09@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261209T150000
-DTEND;TZID=Europe/Rome:20261209T161500
-SUMMARY:Palestra · D2 Schiena e tricipiti
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+TRANSP:TRANSPARENT
+SUMMARY:Palestra · D2 Schiena e tricipiti (~75')
 DESCRIPTION:1. Lat machine\, presa larga prona 3x8-10\n2. Rematore con pet
  to appoggiato 3x8-10\n3. Pulley basso\, presa stretta neutra 3x10-12\n4. P
  ullover al cavo con corda 2x12-15\n5a. Estensioni sopra la testa con corda
@@ -259,20 +280,22 @@ DESCRIPTION:1. Lat machine\, presa larga prona 3x8-10\n2. Rematore con pet
 END:VEVENT
 BEGIN:VEVENT
 UID:run-2026-12-10@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261210T150000
-DTEND;TZID=Europe/Rome:20261210T154200
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · Ripetute 6×2' in Z4
 DESCRIPTION:10' facili\, 6 ripetute da 2' a 168-186 bpm con 2' di corsa le
  nta\, 10' facili.\n\nL'allenamento è già sull'orologio.
 END:VEVENT
 BEGIN:VEVENT
 UID:gym-2026-12-11@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261211T150000
-DTEND;TZID=Europe/Rome:20261211T161500
-SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia · bicip
- iti
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+TRANSP:TRANSPARENT
+SUMMARY:Palestra · D3 Spalle\, petto e schiena ridotti\, braccia (~75') 
+ · bicipiti
 DESCRIPTION:1. Shoulder press con manubri da seduto 3x8-10\n2a. Chest pres
  s alla macchina 3x8-12\n2b. Lat machine\, presa neutra 3x10-12\n3a. Croci 
  ai cavi bassi 2x12-15\n3b. Rematore al cavo a un braccio 2x10-12\n4a. Alza
@@ -283,16 +306,17 @@ DESCRIPTION:1. Shoulder press con manubri da seduto 3x8-10\n2a. Chest pres
 END:VEVENT
 BEGIN:VEVENT
 UID:run-2026-12-12@edo-training
-DTSTAMP:20261117T170034Z
-DTSTART;TZID=Europe/Rome:20261212T100000
-DTEND;TZID=Europe/Rome:20261212T105500
+DTSTAMP:20261117T171209Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
 SUMMARY:Corsa · Lungo Z2 55'
 DESCRIPTION:5' liberi\, poi 50' a 140-155 bpm.\n\nL'allenamento è già su
  ll'orologio.
 END:VEVENT
 BEGIN:VEVENT
 UID:nutri-2026-12-22@edo-training
-DTSTAMP:20261117T170034Z
+DTSTAMP:20261117T171209Z
 DTSTART;TZID=Europe/Rome:20261222T190000
 DTEND;TZID=Europe/Rome:20261222T200000
 SUMMARY:Controllo nutrizionista + bioimpedenza
